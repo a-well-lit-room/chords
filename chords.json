@@ -1,0 +1,67 @@
+{
+    "chords": {
+        "C major": {
+            "aliases": ["Cmaj", "C", "C maj"],
+            "fingerings": {
+                "guitar": ["x 3 2 0 1 0", "x 3 2 0 0 3", "x 3 5 5 5 x"],
+                "ukulele": ["0 0 0 3"]
+            }
+        },
+        "G major": {
+            "aliases": ["Gmaj", "G", "G maj"],
+            "fingerings": {
+                "guitar": ["3 2 0 0 0 3", "3 5 5 4 3 3"],
+                "ukulele": ["0 2 3 2"]
+            }
+        },
+        "D major": {
+            "aliases": ["Dmaj", "D", "D maj"],
+            "fingerings": {
+                "guitar": ["x x 0 2 3 2", "10 12 12 11 10 10"],
+                "ukulele": ["2 2 2 0"]
+            }
+        },
+        "E major": {
+            "aliases": ["Emaj", "E", "E maj"],
+            "fingerings": {
+                "guitar": ["0 2 2 1 0 0", "0 7 9 9 9 7"],
+                "ukulele": ["4 4 4 2"]
+            }
+        },
+        "A major": {
+            "aliases": ["Amaj", "A", "A maj"],
+            "fingerings": {
+                "guitar": ["x 0 2 2 2 0", "5 7 7 6 5 5"],
+                "ukulele": ["2 1 0 0"]
+            }
+        },
+        "F major": {
+            "aliases": ["Fmaj", "F", "F maj"],
+            "fingerings": {
+                "guitar": ["1 3 3 2 1 1", "8 10 10 9 8 8"],
+                "ukulele": ["2 0 1 0"]
+            }
+        },
+        "A minor": {
+            "aliases": ["Am", "Amin", "A min"],
+            "fingerings": {
+                "guitar": ["x 0 2 2 1 0", "5 7 7 5 5 5"],
+                "ukulele": ["2 0 0 0"]
+            }
+        },
+        "E minor": {
+            "aliases": ["Em", "Emin", "E min"],
+            "fingerings": {
+                "guitar": ["0 2 2 0 0 0", "0 7 9 9 8 7"],
+                "ukulele": ["2 0 0 2"]
+            }
+        },
+        "D minor": {
+            "aliases": ["Dm", "Dmin", "D min"],
+            "fingerings": {
+                "guitar": ["x x 0 2 3 1", "10 12 12 10 10 10"],
+                "ukulele": ["2 2 1 0"]
+            }
+        }
+    }
+}
