@@ -1,718 +1,716 @@
 {
-    "chords": {
-        "C major": {
-            "aliases": ["C", "Cmaj", "C maj"],
-            "fingerings": {
-                "guitar": ["x 3 2 0 1 0", "x 3 2 0 0 3", "x 3 5 5 5 x"],
-                "ukulele": ["0 0 0 3"]
-            }
-        },
-        "C# major": {
-            "aliases": ["C#", "C#maj", "C# maj", "C sharp", "C sharp major"],
-            "fingerings": {
-                "guitar": ["x 4 6 6 6 4", "x 4 6 6 6 x"],
-                "ukulele": ["1 1 1 4"]
-            }
-        },
-        "Db major": {
-            "aliases": ["Db", "Dbmaj", "Db maj", "D flat", "D flat major"],
-            "fingerings": {
-                "guitar": ["x 4 6 6 6 4", "x 4 6 6 6 x"],
-                "ukulele": ["1 1 1 4"]
-            }
-        },
-        "D major": {
-            "aliases": ["D", "Dmaj", "D maj"],
-            "fingerings": {
-                "guitar": ["x x 0 2 3 2", "10 12 12 11 10 10"],
-                "ukulele": ["2 2 2 0"]
-            }
-        },
-        "D# major": {
-            "aliases": ["D#", "D#maj", "D# maj", "D sharp", "D sharp major"],
-            "fingerings": {
-                "guitar": ["x 5 7 7 7 5", "x 5 7 7 7 x"],
-                "ukulele": ["3 3 3 6"]
-            }
-        },
-        "Eb major": {
-            "aliases": ["Eb", "Ebmaj", "Eb maj", "E flat", "E flat major"],
-            "fingerings": {
-                "guitar": ["x 5 7 7 7 5", "x 5 7 7 7 x"],
-                "ukulele": ["3 3 3 6"]
-            }
-        },
-        "E major": {
-            "aliases": ["E", "Emaj", "E maj"],
-            "fingerings": {
-                "guitar": ["0 2 2 1 0 0", "0 7 9 9 9 7"],
-                "ukulele": ["4 4 4 2"]
-            }
-        },
-        "F major": {
-            "aliases": ["F", "Fmaj", "F maj"],
-            "fingerings": {
-                "guitar": ["1 3 3 2 1 1", "8 10 10 9 8 8"],
-                "ukulele": ["2 0 1 0"]
-            }
-        },
-        "F# major": {
-            "aliases": ["F#", "F#maj", "F# maj", "F sharp", "F sharp major"],
-            "fingerings": {
-                "guitar": ["2 4 4 3 2 2", "2 9 11 11 11 9"],
-                "ukulele": ["4 4 4 6"]
-            }
-        },
-        "Gb major": {
-            "aliases": ["Gb", "Gbmaj", "Gb maj", "G flat", "G flat major"],
-            "fingerings": {
-                "guitar": ["2 4 4 3 2 2", "2 9 11 11 11 9"],
-                "ukulele": ["4 4 4 6"]
-            }
-        },
-        "G major": {
-            "aliases": ["G", "Gmaj", "G maj"],
-            "fingerings": {
-                "guitar": ["3 2 0 0 0 3", "3 5 5 4 3 3"],
-                "ukulele": ["0 2 3 2"]
-            }
-        },
-        "G# major": {
-            "aliases": ["G#", "G#maj", "G# maj", "G sharp", "G sharp major"],
-            "fingerings": {
-                "guitar": ["4 6 6 5 4 4", "4 11 13 13 13 11"],
-                "ukulele": ["5 5 5 8"]
-            }
-        },
-        "Ab major": {
-            "aliases": ["Ab", "Abmaj", "Ab maj", "A flat", "A flat major"],
-            "fingerings": {
-                "guitar": ["4 6 6 5 4 4", "4 11 13 13 13 11"],
-                "ukulele": ["5 5 5 8"]
-            }
-        },
-        "A major": {
-            "aliases": ["A", "Amaj", "A maj"],
-            "fingerings": {
-                "guitar": ["x 0 2 2 2 0", "5 7 7 6 5 5"],
-                "ukulele": ["2 1 0 0"]
-            }
-        },
-        "A# major": {
-            "aliases": ["A#", "A#maj", "A# maj", "A sharp", "A sharp major"],
-            "fingerings": {
-                "guitar": ["x 1 3 3 3 1", "x 6 8 8 8 6"],
-                "ukulele": ["6 6 6 8"]
-            }
-        },
-        "Bb major": {
-            "aliases": ["Bb", "Bbmaj", "Bb maj", "B flat", "B flat major"],
-            "fingerings": {
-                "guitar": ["x 1 3 3 3 1", "x 6 8 8 8 6"],
-                "ukulele": ["6 6 6 8"]
-            }
-        },
-        "B major": {
-            "aliases": ["B", "Bmaj", "B maj"],
-            "fingerings": {
-                "guitar": ["x 2 4 4 4 2", "7 9 9 8 7 7"],
-                "ukulele": ["4 3 2 2"]
-            }
-        },
-        "C minor": {
-            "aliases": ["Cm", "Cmin", "C min"],
-            "fingerings": {
-                "guitar": ["x 3 5 5 4 3", "8 10 10 8 8 8"],
-                "ukulele": ["3 3 3 0"]
-            }
-        },
-        "C# minor": {
-            "aliases": ["C#m", "C#min", "C# min", "C sharp minor", "C sharp minor"],
-            "fingerings": {
-                "guitar": ["x 4 6 6 5 4", "9 11 11 11 9 9"],
-                "ukulele": ["4 4 4 2"]
-            }
-        },
-        "Db minor": {
-            "aliases": ["Dbm", "Dbmin", "Db min", "D flat minor", "D flat minor"],
-            "fingerings": {
-                "guitar": ["x 4 6 6 5 4", "9 11 11 11 9 9"],
-                "ukulele": ["4 4 4 2"]
-            }
-        },
-        "D minor": {
-            "aliases": ["Dm", "Dmin", "D min"],
-            "fingerings": {
-                "guitar": ["x x 0 2 3 1", "10 12 12 10 10 10"],
-                "ukulele": ["2 2 1 0"]
-            }
-        },
-        "D# minor": {
-            "aliases": ["D#m", "D#min", "D# min", "D sharp minor", "D sharp minor"],
-            "fingerings": {
-                "guitar": ["x 5 7 7 6 5", "11 13 13 13 11 11"],
-                "ukulele": ["6 6 6 4"]
-            }
-        },
-        "Eb minor": {
-            "aliases": ["Ebm", "Ebmin", "Eb min", "E flat minor", "E flat minor"],
-            "fingerings": {
-                "guitar": ["x 5 7 7 6 5", "11 13 13 13 11 11"],
-                "ukulele": ["6 6 6 4"]
-            }
-        },
-        "E minor": {
-            "aliases": ["Em", "Emin", "E min"],
-            "fingerings": {
-                "guitar": ["0 2 2 0 0 0", "0 7 9 9 8 7"],
-                "ukulele": ["2 0 0 2"]
-            }
-        },
-        "F minor": {
-            "aliases": ["Fm", "Fmin", "F min"],
-            "fingerings": {
-                "guitar": ["1 3 3 1 1 1", "8 10 10 8 8 8"],
-                "ukulele": ["2 0 1 0"]
-            }
-        },
-        "F# minor": {
-            "aliases": ["F#m", "F#min", "F# min", "F sharp minor", "F sharp minor"],
-            "fingerings": {
-                "guitar": ["2 4 4 2 2 2", "9 11 11 11 9 9"],
-                "ukulele": ["4 4 4 2"]
-            }
-        },
-        "Gb minor": {
-            "aliases": ["Gbm", "Gbmin", "Gb min", "G flat minor", "G flat minor"],
-            "fingerings": {
-                "guitar": ["2 4 4 2 2 2", "9 11 11 11 9 9"],
-                "ukulele": ["4 4 4 2"]
-            }
-        },
-        "G minor": {
-            "aliases": ["Gm", "Gmin", "G min"],
-            "fingerings": {
-                "guitar": ["3 5 5 3 3 3", "10 12 12 11 10 10"],
-                "ukulele": ["0 2 3 1"]
-            }
-        },
-        "G# minor": {
-            "aliases": ["G#m", "G#min", "G# min", "G sharp minor", "G sharp minor"],
-            "fingerings": {
-                "guitar": ["4 6 6 4 4 4", "11 13 13 13 11 11"],
-                "ukulele": ["5 5 5 3"]
-            }
-        },
-        "Ab minor": {
-            "aliases": ["Abm", "Abmin", "Ab min", "A flat minor", "A flat minor"],
-            "fingerings": {
-                "guitar": ["4 6 6 4 4 4", "11 13 13 13 11 11"],
-                "ukulele": ["5 5 5 3"]
-            }
-        },
-        "A minor": {
-            "aliases": ["Am", "Amin", "A min"],
-            "fingerings": {
-                "guitar": ["x 0 2 2 1 0", "5 7 7 5 5 5"],
-                "ukulele": ["2 0 0 0"]
-            }
-        },
-        "A# minor": {
-            "aliases": ["A#m", "A#min", "A# min", "A sharp minor", "A sharp minor"],
-            "fingerings": {
-                "guitar": ["x 1 3 3 2 1", "6 8 8 8 6 6"],
-                "ukulele": ["6 6 6 4"]
-            }
-        },
-        "Bb minor": {
-            "aliases": ["Bbm", "Bbmin", "Bb min", "B flat minor", "B flat minor"],
-            "fingerings": {
-                "guitar": ["x 1 3 3 2 1", "6 8 8 8 6 6"],
-                "ukulele": ["6 6 6 4"]
-            }
-        },
-        "B minor": {
-            "aliases": ["Bm", "Bmin", "B min"],
-            "fingerings": {
-                "guitar": ["x 2 4 4 3 2", "7 9 9 7 7 7"],
-                "ukulele": ["4 2 2 0"]
-            }
-        },
-        "C7": {
-            "aliases": ["C7", "C seven", "C seven"],
-            "fingerings": {
-                "guitar": ["x 3 2 3 1 0", "x 3 5 5 5 x"],
-                "ukulele": ["0 0 0 1"]
-            }
-        },
-        "C#7": {
-            "aliases": ["C#7", "C# seven", "C# seven", "C sharp seven", "C sharp seven"],
-            "fingerings": {
-                "guitar": ["x 4 6 4 6 4", "x 4 6 6 6 x"],
-                "ukulele": ["1 1 1 2"]
-            }
-        },
-        "Db7": {
-            "aliases": ["Db7", "Db seven", "Db seven", "D flat seven", "D flat seven"],
-            "fingerings": {
-                "guitar": ["x 4 6 4 6 4", "x 4 6 6 6 x"],
-                "ukulele": ["1 1 1 2"]
-            }
-        },
-        "D7": {
-            "aliases": ["D7", "D seven", "D seven"],
-            "fingerings": {
-                "guitar": ["x x 0 2 1 2", "10 12 12 11 10 10"],
-                "ukulele": ["2 2 2 1"]
-            }
-        },
-        "D#7": {
-            "aliases": ["D#7", "D# seven", "D# seven", "D sharp seven", "D sharp seven"],
-            "fingerings": {
-                "guitar": ["x 5 7 5 7 5", "x 5 7 7 7 x"],
-                "ukulele": ["3 3 3 4"]
-            }
-        },
-        "Eb7": {
-            "aliases": ["Eb7", "Eb seven", "Eb seven", "E flat seven", "E flat seven"],
-            "fingerings": {
-                "guitar": ["x 5 7 5 7 5", "x 5 7 7 7 x"],
-                "ukulele": ["3 3 3 4"]
-            }
-        },
-        "E7": {
-            "aliases": ["E7", "E seven", "E seven"],
-            "fingerings": {
-                "guitar": ["0 2 0 1 0 0", "0 7 9 9 8 7"],
-                "ukulele": ["4 4 4 5"]
-            }
-        },
-        "F7": {
-            "aliases": ["F7", "F seven", "F seven"],
-            "fingerings": {
-                "guitar": ["1 3 1 2 1 1", "8 10 10 8 8 8"],
-                "ukulele": ["2 0 1 1"]
-            }
-        },
-        "F#7": {
-            "aliases": ["F#7", "F# seven", "F# seven", "F sharp seven", "F sharp seven"],
-            "fingerings": {
-                "guitar": ["2 4 2 3 2 2", "2 9 11 11 11 9"],
-                "ukulele": ["4 4 4 5"]
-            }
-        },
-        "Gb7": {
-            "aliases": ["Gb7", "Gb seven", "Gb seven", "G flat seven", "G flat seven"],
-            "fingerings": {
-                "guitar": ["2 4 2 3 2 2", "2 9 11 11 11 9"],
-                "ukulele": ["4 4 4 5"]
-            }
-        },
-        "G7": {
-            "aliases": ["G7", "G seven", "G seven"],
-            "fingerings": {
-                "guitar": ["3 2 0 0 0 1", "3 5 5 4 3 3"],
-                "ukulele": ["0 2 1 2"]
-            }
-        },
-        "G#7": {
-            "aliases": ["G#7", "G# seven", "G# seven", "G sharp seven", "G sharp seven"],
-            "fingerings": {
-                "guitar": ["4 6 4 5 4 4", "4 11 13 13 13 11"],
-                "ukulele": ["5 5 5 6"]
-            }
-        },
-        "Ab7": {
-            "aliases": ["Ab7", "Ab seven", "Ab seven", "A flat seven", "A flat seven"],
-            "fingerings": {
-                "guitar": ["4 6 4 5 4 4", "4 11 13 13 13 11"],
-                "ukulele": ["5 5 5 6"]
-            }
-        },
-        "A7": {
-            "aliases": ["A7", "A seven", "A seven"],
-            "fingerings": {
-                "guitar": ["x 0 2 0 2 0", "5 7 7 6 5 5"],
-                "ukulele": ["2 1 2 0"]
-            }
-        },
-        "A#7": {
-            "aliases": ["A#7", "A# seven", "A# seven", "A sharp seven", "A sharp seven"],
-            "fingerings": {
-                "guitar": ["x 1 3 1 3 1", "x 6 8 8 8 6"],
-                "ukulele": ["6 6 6 7"]
-            }
-        },
-        "Bb7": {
-            "aliases": ["Bb7", "Bb seven", "Bb seven", "B flat seven", "B flat seven"],
-            "fingerings": {
-                "guitar": ["x 1 3 1 3 1", "x 6 8 8 8 6"],
-                "ukulele": ["6 6 6 7"]
-            }
-        },
-        "B7": {
-            "aliases": ["B7", "B seven", "B seven"],
-            "fingerings": {
-                "guitar": ["x 2 1 2 0 2", "7 9 9 8 7 7"],
-                "ukulele": ["4 2 1 2"]
-            }
-        },
-        "C9": {
-            "aliases": ["C9", "C nine", "C nine"],
-            "fingerings": {
-                "guitar": ["x 3 2 3 3 0", "x 3 5 5 5 x"],
-                "ukulele": ["0 0 0 2"]
-            }
-        },
-        "C#9": {
-            "aliases": ["C#9", "C# nine", "C# nine", "C sharp nine", "C sharp nine"],
-            "fingerings": {
-                "guitar": ["x 4 6 4 6 4", "x 4 6 6 6 x"],
-                "ukulele": ["1 1 1 2"]
-            }
-        },
-        "Db9": {
-            "aliases": ["Db9", "Db nine", "Db nine", "D flat nine", "D flat nine"],
-            "fingerings": {
-                "guitar": ["x 4 6 4 6 4", "x 4 6 6 6 x"],
-                "ukulele": ["1 1 1 2"]
-            }
-        },
-        "D9": {
-            "aliases": ["D9", "D nine", "D nine"],
-            "fingerings": {
-                "guitar": ["x x 0 2 3 0", "10 12 12 11 10 10"],
-                "ukulele": ["2 2 2 0"]
-            }
-        },
-        "D#9": {
-            "aliases": ["D#9", "D# nine", "D# nine", "D sharp nine", "D sharp nine"],
-            "fingerings": {
-                "guitar": ["x 5 7 5 7 5", "x 5 7 7 7 x"],
-                "ukulele": ["3 3 3 4"]
-            }
-        },
-        "Eb9": {
-            "aliases": ["Eb9", "Eb nine", "Eb nine", "E flat nine", "E flat nine"],
-            "fingerings": {
-                "guitar": ["x 5 7 5 7 5", "x 5 7 7 7 x"],
-                "ukulele": ["3 3 3 4"]
-            }
-        },
-        "E9": {
-            "aliases": ["E9", "E nine", "E nine"],
-            "fingerings": {
-                "guitar": ["0 2 0 1 0 2", "0 7 9 9 8 7"],
-                "ukulele": ["4 4 4 5"]
-            }
-        },
-        "F9": {
-            "aliases": ["F9", "F nine", "F nine"],
-            "fingerings": {
-                "guitar": ["1 3 1 2 1 3", "8 10 10 8 8 8"],
-                "ukulele": ["2 0 1 3"]
-            }
-        },
-        "F#9": {
-            "aliases": ["F#9", "F# nine", "F# nine", "F sharp nine", "F sharp nine"],
-            "fingerings": {
-                "guitar": ["2 4 2 3 2 4", "2 9 11 11 11 9"],
-                "ukulele": ["4 4 4 5"]
-            }
-        },
-        "Gb9": {
-            "aliases": ["Gb9", "Gb nine", "Gb nine", "G flat nine", "G flat nine"],
-            "fingerings": {
-                "guitar": ["2 4 2 3 2 4", "2 9 11 11 11 9"],
-                "ukulele": ["4 4 4 5"]
-            }
-        },
-        "G9": {
-            "aliases": ["G9", "G nine", "G nine"],
-            "fingerings": {
-                "guitar": ["3 2 0 0 0 2", "3 5 5 4 3 5"],
-                "ukulele": ["0 2 1 3"]
-            }
-        },
-        "G#9": {
-            "aliases": ["G#9", "G# nine", "G# nine", "G sharp nine", "G sharp nine"],
-            "fingerings": {
-                "guitar": ["4 6 4 5 4 6", "4 11 13 13 13 11"],
-                "ukulele": ["5 5 5 6"]
-            }
-        },
-        "Ab9": {
-            "aliases": ["Ab9", "Ab nine", "Ab nine", "A flat nine", "A flat nine"],
-            "fingerings": {
-                "guitar": ["4 6 4 5 4 6", "4 11 13 13 13 11"],
-                "ukulele": ["5 5 5 6"]
-            }
-        },
-        "A9": {
-            "aliases": ["A9", "A nine", "A nine"],
-            "fingerings": {
-                "guitar": ["x 0 2 0 2 3", "5 7 7 6 5 7"],
-                "ukulele": ["2 1 2 0"]
-            }
-        },
-        "A#9": {
-            "aliases": ["A#9", "A# nine", "A# nine", "A sharp nine", "A sharp nine"],
-            "fingerings": {
-                "guitar": ["x 1 3 1 3 4", "x 6 8 8 8 6"],
-                "ukulele": ["6 6 6 7"]
-            }
-        },
-        "Bb9": {
-            "aliases": ["Bb9", "Bb nine", "Bb nine", "B flat nine", "B flat nine"],
-            "fingerings": {
-                "guitar": ["x 1 3 1 3 4", "x 6 8 8 8 6"],
-                "ukulele": ["6 6 6 7"]
-            }
-        },
-        "B9": {
-            "aliases": ["B9", "B nine", "B nine"],
-            "fingerings": {
-                "guitar": ["x 2 1 2 0 2", "7 9 9 8 7 9"],
-                "ukulele": ["4 2 1 2"]
-            }
-        },
-        "Cmaj6": {
-            "aliases": ["Cmaj6", "C major 6", "C major six"],
-            "fingerings": {
-                "guitar": ["x 3 2 0 0 0", "x 3 5 5 5 x"],
-                "ukulele": ["0 0 0 2"]
-            }
-        },
-        "C#maj6": {
-            "aliases": ["C#maj6", "C# major 6", "C# major six", "C sharp major 6", "C sharp major six"],
-            "fingerings": {
-                "guitar": ["x 4 6 4 6 4", "x 4 6 6 6 x"],
-                "ukulele": ["1 1 1 2"]
-            }
-        },
-        "Dbmaj6": {
-            "aliases": ["Dbmaj6", "Db major 6", "Db major six", "D flat major 6", "D flat major six"],
-            "fingerings": {
-                "guitar": ["x 4 6 4 6 4", "x 4 6 6 6 x"],
-                "ukulele": ["1 1 1 2"]
-            }
-        },
-        "Dmaj6": {
-            "aliases": ["Dmaj6", "D major 6", "D major six"],
-            "fingerings": {
-                "guitar": ["x x 0 2 2 2", "10 12 12 11 10 10"],
-                "ukulele": ["2 2 2 0"]
-            }
-        },
-        "D#maj6": {
-            "aliases": ["D#maj6", "D# major 6", "D# major six", "D sharp major 6", "D sharp major six"],
-            "fingerings": {
-                "guitar": ["x 5 7 5 7 5", "x 5 7 7 7 x"],
-                "ukulele": ["3 3 3 4"]
-            }
-        },
-        "Ebmaj6": {
-            "aliases": ["Ebmaj6", "Eb major 6", "Eb major six", "E flat major 6", "E flat major six"],
-            "fingerings": {
-                "guitar": ["x 5 7 5 7 5", "x 5 7 7 7 x"],
-                "ukulele": ["3 3 3 4"]
-            }
-        },
-        "Emaj6": {
-            "aliases": ["Emaj6", "E major 6", "E major six"],
-            "fingerings": {
-                "guitar": ["0 2 2 1 0 0", "0 7 9 9 8 7"],
-                "ukulele": ["4 4 4 2"]
-            }
-        },
-        "Fmaj6": {
-            "aliases": ["Fmaj6", "F major 6", "F major six"],
-            "fingerings": {
-                "guitar": ["1 3 3 2 1 0", "8 10 10 8 8 8"],
-                "ukulele": ["2 0 1 0"]
-            }
-        },
-        "F#maj6": {
-            "aliases": ["F#maj6", "F# major 6", "F# major six", "F sharp major 6", "F sharp major six"],
-            "fingerings": {
-                "guitar": ["2 4 4 3 2 0", "2 9 11 11 11 9"],
-                "ukulele": ["4 4 4 6"]
-            }
-        },
-        "Gbmaj6": {
-            "aliases": ["Gbmaj6", "Gb major 6", "Gb major six", "G flat major 6", "G flat major six"],
-            "fingerings": {
-                "guitar": ["2 4 4 3 2 0", "2 9 11 11 11 9"],
-                "ukulele": ["4 4 4 6"]
-            }
-        },
-        "Gmaj6": {
-            "aliases": ["Gmaj6", "G major 6", "G major six"],
-            "fingerings": {
-                "guitar": ["3 2 0 0 0 2", "3 5 5 4 3 5"],
-                "ukulele": ["0 2 1 3"]
-            }
-        },
-        "G#maj6": {
-            "aliases": ["G#maj6", "G# major 6", "G# major six", "G sharp major 6", "G sharp major six"],
-            "fingerings": {
-                "guitar": ["4 6 4 5 4 4", "4 11 13 13 13 11"],
-                "ukulele": ["5 5 5 8"]
-            }
-        },
-        "Abmaj6": {
-            "aliases": ["Abmaj6", "Ab major 6", "Ab major six", "A flat major 6", "A flat major six"],
-            "fingerings": {
-                "guitar": ["4 6 4 5 4 4", "4 11 13 13 13 11"],
-                "ukulele": ["5 5 5 8"]
-            }
-        },
-        "Amaj6": {
-            "aliases": ["Amaj6", "A major 6", "A major six"],
-            "fingerings": {
-                "guitar": ["x 0 2 2 2 0", "5 7 7 6 5 5"],
-                "ukulele": ["2 1 0 0"]
-            }
-        },
-        "A#maj6": {
-            "aliases": ["A#maj6", "A# major 6", "A# major six", "A sharp major 6", "A sharp major six"],
-            "fingerings": {
-                "guitar": ["x 1 3 2 3 1", "x 6 8 8 8 6"],
-                "ukulele": ["6 6 6 8"]
-            }
-        },
-        "Bbmaj6": {
-            "aliases": ["Bbmaj6", "Bb major 6", "Bb major six", "B flat major 6", "B flat major six"],
-            "fingerings": {
-                "guitar": ["x 1 3 2 3 1", "x 6 8 8 8 6"],
-                "ukulele": ["6 6 6 8"]
-            }
-        },
-        "Bmaj6": {
-            "aliases": ["Bmaj6", "B major 6", "B major six"],
-            "fingerings": {
-                "guitar": ["x 2 4 4 4 2", "7 9 9 8 7 9"],
-                "ukulele": ["4 2 2 0"]
-            }
-        },
-        "Cmaj7": {
-            "aliases": ["Cmaj7", "C major 7", "C major seven"],
-            "fingerings": {
-                "guitar": ["x 3 2 0 0 0", "x 3 5 4 5 x"],
-                "ukulele": ["0 0 0 2"]
-            }
-        },
-        "C#maj7": {
-            "aliases": ["C#maj7", "C# major 7", "C# major seven", "C sharp major 7", "C sharp major seven"],
-            "fingerings": {
-                "guitar": ["x 4 6 4 6 4", "x 4 6 5 6 x"],
-                "ukulele": ["1 1 1 2"]
-            }
-        },
-        "Dbmaj7": {
-            "aliases": ["Dbmaj7", "Db major 7", "Db major seven", "D flat major 7", "D flat major seven"],
-            "fingerings": {
-                "guitar": ["x 4 6 4 6 4", "x 4 6 5 6 x"],
-                "ukulele": ["1 1 1 2"]
-            }
-        },
-        "Dmaj7": {
-            "aliases": ["Dmaj7", "D major 7", "D major seven"],
-            "fingerings": {
-                "guitar": ["x x 0 2 2 2", "10 12 12 11 10 12"],
-                "ukulele": ["2 2 2 0"]
-            }
-        },
-        "D#maj7": {
-            "aliases": ["D#maj7", "D# major 7", "D# major seven", "D sharp major 7", "D sharp major seven"],
-            "fingerings": {
-                "guitar": ["x 5 7 5 7 5", "x 5 7 6 7 x"],
-                "ukulele": ["3 3 3 4"]
-            }
-        },
-        "Ebmaj7": {
-            "aliases": ["Ebmaj7", "Eb major 7", "Eb major seven", "E flat major 7", "E flat major seven"],
-            "fingerings": {
-                "guitar": ["x 5 7 5 7 5", "x 5 7 6 7 x"],
-                "ukulele": ["3 3 3 4"]
-            }
-        },
-        "Emaj7": {
-            "aliases": ["Emaj7", "E major 7", "E major seven"],
-            "fingerings": {
-                "guitar": ["0 2 2 1 0 0", "0 7 9 8 9 9"],
-                "ukulele": ["4 4 4 2"]
-            }
-        },
-        "Fmaj7": {
-            "aliases": ["Fmaj7", "F major 7", "F major seven"],
-            "fingerings": {
-                "guitar": ["1 3 3 2 1 0", "8 10 10 9 8 10"],
-                "ukulele": ["2 0 1 2"]
-            }
-        },
-        "F#maj7": {
-            "aliases": ["F#maj7", "F# major 7", "F# major seven", "F sharp major 7", "F sharp major seven"],
-            "fingerings": {
-                "guitar": ["2 4 4 3 2 0", "2 9 11 10 11 11"],
-                "ukulele": ["4 4 4 6"]
-            }
-        },
-        "Gbmaj7": {
-            "aliases": ["Gbmaj7", "Gb major 7", "Gb major seven", "G flat major 7", "G flat major seven"],
-            "fingerings": {
-                "guitar": ["2 4 4 3 2 0", "2 9 11 10 11 11"],
-                "ukulele": ["4 4 4 6"]
-            }
-        },
-        "Gmaj7": {
-            "aliases": ["Gmaj7", "G major 7", "G major seven"],
-            "fingerings": {
-                "guitar": ["3 2 0 0 0 2", "3 5 5 4 3 5"],
-                "ukulele": ["0 2 1 2"]
-            }
-        },
-        "G#maj7": {
-            "aliases": ["G#maj7", "G# major 7", "G# major seven", "G sharp major 7", "G sharp major seven"],
-            "fingerings": {
-                "guitar": ["4 6 4 5 4 4", "4 11 13 12 13 13"],
-                "ukulele": ["5 5 5 8"]
-            }
-        },
-        "Abmaj7": {
-            "aliases": ["Abmaj7", "Ab major 7", "Ab major seven", "A flat major 7", "A flat major seven"],
-            "fingerings": {
-                "guitar": ["4 6 4 5 4 4", "4 11 13 12 13 13"],
-                "ukulele": ["5 5 5 8"]
-            }
-        },
-        "Amaj7": {
-            "aliases": ["Amaj7", "A major 7", "A major seven"],
-            "fingerings": {
-                "guitar": ["x 0 2 2 2 0", "5 7 7 6 5 7"],
-                "ukulele": ["2 1 0 2"]
-            }
-        },
-        "A#maj7": {
-            "aliases": ["A#maj7", "A# major 7", "A# major seven", "A sharp major 7", "A sharp major seven"],
-            "fingerings": {
-                "guitar": ["x 1 3 2 3 1", "x 6 8 7 8 8"],
-                "ukulele": ["6 6 6 8"]
-            }
-        },
-        "Bbmaj7": {
-            "aliases": ["Bbmaj7", "Bb major 7", "Bb major seven", "B flat major 7", "B flat major seven"],
-            "fingerings": {
-                "guitar": ["x 1 3 2 3 1", "x 6 8 7 8 8"],
-                "ukulele": ["6 6 6 8"]
-            }
-        },
-        "Bmaj7": {
-            "aliases": ["Bmaj7", "B major 7", "B major seven"],
-            "fingerings": {
-                "guitar": ["x 2 4 4 4 2", "7 9 9 8 7 9"],
-                "ukulele": ["4 2 2 0"]
-            }
+    "C major": {
+        "aliases": ["C", "Cmaj", "C maj"],
+        "fingerings": {
+            "guitar": ["x 3 2 0 1 0", "x 3 2 0 0 3", "x 3 5 5 5 x"],
+            "ukulele": ["0 0 0 3"]
+        }
+    },
+    "C# major": {
+        "aliases": ["C#", "C#maj", "C# maj", "C sharp", "C sharp major"],
+        "fingerings": {
+            "guitar": ["x 4 6 6 6 4", "x 4 6 6 6 x"],
+            "ukulele": ["1 1 1 4"]
+        }
+    },
+    "Db major": {
+        "aliases": ["Db", "Dbmaj", "Db maj", "D flat", "D flat major"],
+        "fingerings": {
+            "guitar": ["x 4 6 6 6 4", "x 4 6 6 6 x"],
+            "ukulele": ["1 1 1 4"]
+        }
+    },
+    "D major": {
+        "aliases": ["D", "Dmaj", "D maj"],
+        "fingerings": {
+            "guitar": ["x x 0 2 3 2", "10 12 12 11 10 10"],
+            "ukulele": ["2 2 2 0"]
+        }
+    },
+    "D# major": {
+        "aliases": ["D#", "D#maj", "D# maj", "D sharp", "D sharp major"],
+        "fingerings": {
+            "guitar": ["x 5 7 7 7 5", "x 5 7 7 7 x"],
+            "ukulele": ["3 3 3 6"]
+        }
+    },
+    "Eb major": {
+        "aliases": ["Eb", "Ebmaj", "Eb maj", "E flat", "E flat major"],
+        "fingerings": {
+            "guitar": ["x 5 7 7 7 5", "x 5 7 7 7 x"],
+            "ukulele": ["3 3 3 6"]
+        }
+    },
+    "E major": {
+        "aliases": ["E", "Emaj", "E maj"],
+        "fingerings": {
+            "guitar": ["0 2 2 1 0 0", "0 7 9 9 9 7"],
+            "ukulele": ["4 4 4 2"]
+        }
+    },
+    "F major": {
+        "aliases": ["F", "Fmaj", "F maj"],
+        "fingerings": {
+            "guitar": ["1 3 3 2 1 1", "8 10 10 9 8 8"],
+            "ukulele": ["2 0 1 0"]
+        }
+    },
+    "F# major": {
+        "aliases": ["F#", "F#maj", "F# maj", "F sharp", "F sharp major"],
+        "fingerings": {
+            "guitar": ["2 4 4 3 2 2", "2 9 11 11 11 9"],
+            "ukulele": ["4 4 4 6"]
+        }
+    },
+    "Gb major": {
+        "aliases": ["Gb", "Gbmaj", "Gb maj", "G flat", "G flat major"],
+        "fingerings": {
+            "guitar": ["2 4 4 3 2 2", "2 9 11 11 11 9"],
+            "ukulele": ["4 4 4 6"]
+        }
+    },
+    "G major": {
+        "aliases": ["G", "Gmaj", "G maj"],
+        "fingerings": {
+            "guitar": ["3 2 0 0 0 3", "3 5 5 4 3 3"],
+            "ukulele": ["0 2 3 2"]
+        }
+    },
+    "G# major": {
+        "aliases": ["G#", "G#maj", "G# maj", "G sharp", "G sharp major"],
+        "fingerings": {
+            "guitar": ["4 6 6 5 4 4", "4 11 13 13 13 11"],
+            "ukulele": ["5 5 5 8"]
+        }
+    },
+    "Ab major": {
+        "aliases": ["Ab", "Abmaj", "Ab maj", "A flat", "A flat major"],
+        "fingerings": {
+            "guitar": ["4 6 6 5 4 4", "4 11 13 13 13 11"],
+            "ukulele": ["5 5 5 8"]
+        }
+    },
+    "A major": {
+        "aliases": ["A", "Amaj", "A maj"],
+        "fingerings": {
+            "guitar": ["x 0 2 2 2 0", "5 7 7 6 5 5"],
+            "ukulele": ["2 1 0 0"]
+        }
+    },
+    "A# major": {
+        "aliases": ["A#", "A#maj", "A# maj", "A sharp", "A sharp major"],
+        "fingerings": {
+            "guitar": ["x 1 3 3 3 1", "x 6 8 8 8 6"],
+            "ukulele": ["6 6 6 8"]
+        }
+    },
+    "Bb major": {
+        "aliases": ["Bb", "Bbmaj", "Bb maj", "B flat", "B flat major"],
+        "fingerings": {
+            "guitar": ["x 1 3 3 3 1", "x 6 8 8 8 6"],
+            "ukulele": ["6 6 6 8"]
+        }
+    },
+    "B major": {
+        "aliases": ["B", "Bmaj", "B maj"],
+        "fingerings": {
+            "guitar": ["x 2 4 4 4 2", "7 9 9 8 7 7"],
+            "ukulele": ["4 3 2 2"]
+        }
+    },
+    "C minor": {
+        "aliases": ["Cm", "Cmin", "C min"],
+        "fingerings": {
+            "guitar": ["x 3 5 5 4 3", "8 10 10 8 8 8"],
+            "ukulele": ["3 3 3 0"]
+        }
+    },
+    "C# minor": {
+        "aliases": ["C#m", "C#min", "C# min", "C sharp minor", "C sharp minor"],
+        "fingerings": {
+            "guitar": ["x 4 6 6 5 4", "9 11 11 11 9 9"],
+            "ukulele": ["4 4 4 2"]
+        }
+    },
+    "Db minor": {
+        "aliases": ["Dbm", "Dbmin", "Db min", "D flat minor", "D flat minor"],
+        "fingerings": {
+            "guitar": ["x 4 6 6 5 4", "9 11 11 11 9 9"],
+            "ukulele": ["4 4 4 2"]
+        }
+    },
+    "D minor": {
+        "aliases": ["Dm", "Dmin", "D min"],
+        "fingerings": {
+            "guitar": ["x x 0 2 3 1", "10 12 12 10 10 10"],
+            "ukulele": ["2 2 1 0"]
+        }
+    },
+    "D# minor": {
+        "aliases": ["D#m", "D#min", "D# min", "D sharp minor", "D sharp minor"],
+        "fingerings": {
+            "guitar": ["x 5 7 7 6 5", "11 13 13 13 11 11"],
+            "ukulele": ["6 6 6 4"]
+        }
+    },
+    "Eb minor": {
+        "aliases": ["Ebm", "Ebmin", "Eb min", "E flat minor", "E flat minor"],
+        "fingerings": {
+            "guitar": ["x 5 7 7 6 5", "11 13 13 13 11 11"],
+            "ukulele": ["6 6 6 4"]
+        }
+    },
+    "E minor": {
+        "aliases": ["Em", "Emin", "E min"],
+        "fingerings": {
+            "guitar": ["0 2 2 0 0 0", "0 7 9 9 8 7"],
+            "ukulele": ["2 0 0 2"]
+        }
+    },
+    "F minor": {
+        "aliases": ["Fm", "Fmin", "F min"],
+        "fingerings": {
+            "guitar": ["1 3 3 1 1 1", "8 10 10 8 8 8"],
+            "ukulele": ["2 0 1 0"]
+        }
+    },
+    "F# minor": {
+        "aliases": ["F#m", "F#min", "F# min", "F sharp minor", "F sharp minor"],
+        "fingerings": {
+            "guitar": ["2 4 4 2 2 2", "9 11 11 11 9 9"],
+            "ukulele": ["4 4 4 2"]
+        }
+    },
+    "Gb minor": {
+        "aliases": ["Gbm", "Gbmin", "Gb min", "G flat minor", "G flat minor"],
+        "fingerings": {
+            "guitar": ["2 4 4 2 2 2", "9 11 11 11 9 9"],
+            "ukulele": ["4 4 4 2"]
+        }
+    },
+    "G minor": {
+        "aliases": ["Gm", "Gmin", "G min"],
+        "fingerings": {
+            "guitar": ["3 5 5 3 3 3", "10 12 12 11 10 10"],
+            "ukulele": ["0 2 3 1"]
+        }
+    },
+    "G# minor": {
+        "aliases": ["G#m", "G#min", "G# min", "G sharp minor", "G sharp minor"],
+        "fingerings": {
+            "guitar": ["4 6 6 4 4 4", "11 13 13 13 11 11"],
+            "ukulele": ["5 5 5 3"]
+        }
+    },
+    "Ab minor": {
+        "aliases": ["Abm", "Abmin", "Ab min", "A flat minor", "A flat minor"],
+        "fingerings": {
+            "guitar": ["4 6 6 4 4 4", "11 13 13 13 11 11"],
+            "ukulele": ["5 5 5 3"]
+        }
+    },
+    "A minor": {
+        "aliases": ["Am", "Amin", "A min"],
+        "fingerings": {
+            "guitar": ["x 0 2 2 1 0", "5 7 7 5 5 5"],
+            "ukulele": ["2 0 0 0"]
+        }
+    },
+    "A# minor": {
+        "aliases": ["A#m", "A#min", "A# min", "A sharp minor", "A sharp minor"],
+        "fingerings": {
+            "guitar": ["x 1 3 3 2 1", "6 8 8 8 6 6"],
+            "ukulele": ["6 6 6 4"]
+        }
+    },
+    "Bb minor": {
+        "aliases": ["Bbm", "Bbmin", "Bb min", "B flat minor", "B flat minor"],
+        "fingerings": {
+            "guitar": ["x 1 3 3 2 1", "6 8 8 8 6 6"],
+            "ukulele": ["6 6 6 4"]
+        }
+    },
+    "B minor": {
+        "aliases": ["Bm", "Bmin", "B min"],
+        "fingerings": {
+            "guitar": ["x 2 4 4 3 2", "7 9 9 7 7 7"],
+            "ukulele": ["4 2 2 0"]
+        }
+    },
+    "C7": {
+        "aliases": ["C7", "C seven", "C seven"],
+        "fingerings": {
+            "guitar": ["x 3 2 3 1 0", "x 3 5 5 5 x"],
+            "ukulele": ["0 0 0 1"]
+        }
+    },
+    "C#7": {
+        "aliases": ["C#7", "C# seven", "C# seven", "C sharp seven", "C sharp seven"],
+        "fingerings": {
+            "guitar": ["x 4 6 4 6 4", "x 4 6 6 6 x"],
+            "ukulele": ["1 1 1 2"]
+        }
+    },
+    "Db7": {
+        "aliases": ["Db7", "Db seven", "Db seven", "D flat seven", "D flat seven"],
+        "fingerings": {
+            "guitar": ["x 4 6 4 6 4", "x 4 6 6 6 x"],
+            "ukulele": ["1 1 1 2"]
+        }
+    },
+    "D7": {
+        "aliases": ["D7", "D seven", "D seven"],
+        "fingerings": {
+            "guitar": ["x x 0 2 1 2", "10 12 12 11 10 10"],
+            "ukulele": ["2 2 2 1"]
+        }
+    },
+    "D#7": {
+        "aliases": ["D#7", "D# seven", "D# seven", "D sharp seven", "D sharp seven"],
+        "fingerings": {
+            "guitar": ["x 5 7 5 7 5", "x 5 7 7 7 x"],
+            "ukulele": ["3 3 3 4"]
+        }
+    },
+    "Eb7": {
+        "aliases": ["Eb7", "Eb seven", "Eb seven", "E flat seven", "E flat seven"],
+        "fingerings": {
+            "guitar": ["x 5 7 5 7 5", "x 5 7 7 7 x"],
+            "ukulele": ["3 3 3 4"]
+        }
+    },
+    "E7": {
+        "aliases": ["E7", "E seven", "E seven"],
+        "fingerings": {
+            "guitar": ["0 2 0 1 0 0", "0 7 9 9 8 7"],
+            "ukulele": ["4 4 4 5"]
+        }
+    },
+    "F7": {
+        "aliases": ["F7", "F seven", "F seven"],
+        "fingerings": {
+            "guitar": ["1 3 1 2 1 1", "8 10 10 8 8 8"],
+            "ukulele": ["2 0 1 1"]
+        }
+    },
+    "F#7": {
+        "aliases": ["F#7", "F# seven", "F# seven", "F sharp seven", "F sharp seven"],
+        "fingerings": {
+            "guitar": ["2 4 2 3 2 2", "2 9 11 11 11 9"],
+            "ukulele": ["4 4 4 5"]
+        }
+    },
+    "Gb7": {
+        "aliases": ["Gb7", "Gb seven", "Gb seven", "G flat seven", "G flat seven"],
+        "fingerings": {
+            "guitar": ["2 4 2 3 2 2", "2 9 11 11 11 9"],
+            "ukulele": ["4 4 4 5"]
+        }
+    },
+    "G7": {
+        "aliases": ["G7", "G seven", "G seven"],
+        "fingerings": {
+            "guitar": ["3 2 0 0 0 1", "3 5 5 4 3 3"],
+            "ukulele": ["0 2 1 2"]
+        }
+    },
+    "G#7": {
+        "aliases": ["G#7", "G# seven", "G# seven", "G sharp seven", "G sharp seven"],
+        "fingerings": {
+            "guitar": ["4 6 4 5 4 4", "4 11 13 13 13 11"],
+            "ukulele": ["5 5 5 6"]
+        }
+    },
+    "Ab7": {
+        "aliases": ["Ab7", "Ab seven", "Ab seven", "A flat seven", "A flat seven"],
+        "fingerings": {
+            "guitar": ["4 6 4 5 4 4", "4 11 13 13 13 11"],
+            "ukulele": ["5 5 5 6"]
+        }
+    },
+    "A7": {
+        "aliases": ["A7", "A seven", "A seven"],
+        "fingerings": {
+            "guitar": ["x 0 2 0 2 0", "5 7 7 6 5 5"],
+            "ukulele": ["2 1 2 0"]
+        }
+    },
+    "A#7": {
+        "aliases": ["A#7", "A# seven", "A# seven", "A sharp seven", "A sharp seven"],
+        "fingerings": {
+            "guitar": ["x 1 3 1 3 1", "x 6 8 8 8 6"],
+            "ukulele": ["6 6 6 7"]
+        }
+    },
+    "Bb7": {
+        "aliases": ["Bb7", "Bb seven", "Bb seven", "B flat seven", "B flat seven"],
+        "fingerings": {
+            "guitar": ["x 1 3 1 3 1", "x 6 8 8 8 6"],
+            "ukulele": ["6 6 6 7"]
+        }
+    },
+    "B7": {
+        "aliases": ["B7", "B seven", "B seven"],
+        "fingerings": {
+            "guitar": ["x 2 1 2 0 2", "7 9 9 8 7 7"],
+            "ukulele": ["4 2 1 2"]
+        }
+    },
+    "C9": {
+        "aliases": ["C9", "C nine", "C nine"],
+        "fingerings": {
+            "guitar": ["x 3 2 3 3 0", "x 3 5 5 5 x"],
+            "ukulele": ["0 0 0 2"]
+        }
+    },
+    "C#9": {
+        "aliases": ["C#9", "C# nine", "C# nine", "C sharp nine", "C sharp nine"],
+        "fingerings": {
+            "guitar": ["x 4 6 4 6 4", "x 4 6 6 6 x"],
+            "ukulele": ["1 1 1 2"]
+        }
+    },
+    "Db9": {
+        "aliases": ["Db9", "Db nine", "Db nine", "D flat nine", "D flat nine"],
+        "fingerings": {
+            "guitar": ["x 4 6 4 6 4", "x 4 6 6 6 x"],
+            "ukulele": ["1 1 1 2"]
+        }
+    },
+    "D9": {
+        "aliases": ["D9", "D nine", "D nine"],
+        "fingerings": {
+            "guitar": ["x x 0 2 3 0", "10 12 12 11 10 10"],
+            "ukulele": ["2 2 2 0"]
+        }
+    },
+    "D#9": {
+        "aliases": ["D#9", "D# nine", "D# nine", "D sharp nine", "D sharp nine"],
+        "fingerings": {
+            "guitar": ["x 5 7 5 7 5", "x 5 7 7 7 x"],
+            "ukulele": ["3 3 3 4"]
+        }
+    },
+    "Eb9": {
+        "aliases": ["Eb9", "Eb nine", "Eb nine", "E flat nine", "E flat nine"],
+        "fingerings": {
+            "guitar": ["x 5 7 5 7 5", "x 5 7 7 7 x"],
+            "ukulele": ["3 3 3 4"]
+        }
+    },
+    "E9": {
+        "aliases": ["E9", "E nine", "E nine"],
+        "fingerings": {
+            "guitar": ["0 2 0 1 0 2", "0 7 9 9 8 7"],
+            "ukulele": ["4 4 4 5"]
+        }
+    },
+    "F9": {
+        "aliases": ["F9", "F nine", "F nine"],
+        "fingerings": {
+            "guitar": ["1 3 1 2 1 3", "8 10 10 8 8 8"],
+            "ukulele": ["2 0 1 3"]
+        }
+    },
+    "F#9": {
+        "aliases": ["F#9", "F# nine", "F# nine", "F sharp nine", "F sharp nine"],
+        "fingerings": {
+            "guitar": ["2 4 2 3 2 4", "2 9 11 11 11 9"],
+            "ukulele": ["4 4 4 5"]
+        }
+    },
+    "Gb9": {
+        "aliases": ["Gb9", "Gb nine", "Gb nine", "G flat nine", "G flat nine"],
+        "fingerings": {
+            "guitar": ["2 4 2 3 2 4", "2 9 11 11 11 9"],
+            "ukulele": ["4 4 4 5"]
+        }
+    },
+    "G9": {
+        "aliases": ["G9", "G nine", "G nine"],
+        "fingerings": {
+            "guitar": ["3 2 0 0 0 2", "3 5 5 4 3 5"],
+            "ukulele": ["0 2 1 3"]
+        }
+    },
+    "G#9": {
+        "aliases": ["G#9", "G# nine", "G# nine", "G sharp nine", "G sharp nine"],
+        "fingerings": {
+            "guitar": ["4 6 4 5 4 6", "4 11 13 13 13 11"],
+            "ukulele": ["5 5 5 6"]
+        }
+    },
+    "Ab9": {
+        "aliases": ["Ab9", "Ab nine", "Ab nine", "A flat nine", "A flat nine"],
+        "fingerings": {
+            "guitar": ["4 6 4 5 4 6", "4 11 13 13 13 11"],
+            "ukulele": ["5 5 5 6"]
+        }
+    },
+    "A9": {
+        "aliases": ["A9", "A nine", "A nine"],
+        "fingerings": {
+            "guitar": ["x 0 2 0 2 3", "5 7 7 6 5 7"],
+            "ukulele": ["2 1 2 0"]
+        }
+    },
+    "A#9": {
+        "aliases": ["A#9", "A# nine", "A# nine", "A sharp nine", "A sharp nine"],
+        "fingerings": {
+            "guitar": ["x 1 3 1 3 4", "x 6 8 8 8 6"],
+            "ukulele": ["6 6 6 7"]
+        }
+    },
+    "Bb9": {
+        "aliases": ["Bb9", "Bb nine", "Bb nine", "B flat nine", "B flat nine"],
+        "fingerings": {
+            "guitar": ["x 1 3 1 3 4", "x 6 8 8 8 6"],
+            "ukulele": ["6 6 6 7"]
+        }
+    },
+    "B9": {
+        "aliases": ["B9", "B nine", "B nine"],
+        "fingerings": {
+            "guitar": ["x 2 1 2 0 2", "7 9 9 8 7 9"],
+            "ukulele": ["4 2 1 2"]
+        }
+    },
+    "Cmaj6": {
+        "aliases": ["Cmaj6", "C major 6", "C major six"],
+        "fingerings": {
+            "guitar": ["x 3 2 0 0 0", "x 3 5 5 5 x"],
+            "ukulele": ["0 0 0 2"]
+        }
+    },
+    "C#maj6": {
+        "aliases": ["C#maj6", "C# major 6", "C# major six", "C sharp major 6", "C sharp major six"],
+        "fingerings": {
+            "guitar": ["x 4 6 4 6 4", "x 4 6 6 6 x"],
+            "ukulele": ["1 1 1 2"]
+        }
+    },
+    "Dbmaj6": {
+        "aliases": ["Dbmaj6", "Db major 6", "Db major six", "D flat major 6", "D flat major six"],
+        "fingerings": {
+            "guitar": ["x 4 6 4 6 4", "x 4 6 6 6 x"],
+            "ukulele": ["1 1 1 2"]
+        }
+    },
+    "Dmaj6": {
+        "aliases": ["Dmaj6", "D major 6", "D major six"],
+        "fingerings": {
+            "guitar": ["x x 0 2 2 2", "10 12 12 11 10 10"],
+            "ukulele": ["2 2 2 0"]
+        }
+    },
+    "D#maj6": {
+        "aliases": ["D#maj6", "D# major 6", "D# major six", "D sharp major 6", "D sharp major six"],
+        "fingerings": {
+            "guitar": ["x 5 7 5 7 5", "x 5 7 7 7 x"],
+            "ukulele": ["3 3 3 4"]
+        }
+    },
+    "Ebmaj6": {
+        "aliases": ["Ebmaj6", "Eb major 6", "Eb major six", "E flat major 6", "E flat major six"],
+        "fingerings": {
+            "guitar": ["x 5 7 5 7 5", "x 5 7 7 7 x"],
+            "ukulele": ["3 3 3 4"]
+        }
+    },
+    "Emaj6": {
+        "aliases": ["Emaj6", "E major 6", "E major six"],
+        "fingerings": {
+            "guitar": ["0 2 2 1 0 0", "0 7 9 9 8 7"],
+            "ukulele": ["4 4 4 2"]
+        }
+    },
+    "Fmaj6": {
+        "aliases": ["Fmaj6", "F major 6", "F major six"],
+        "fingerings": {
+            "guitar": ["1 3 3 2 1 0", "8 10 10 8 8 8"],
+            "ukulele": ["2 0 1 0"]
+        }
+    },
+    "F#maj6": {
+        "aliases": ["F#maj6", "F# major 6", "F# major six", "F sharp major 6", "F sharp major six"],
+        "fingerings": {
+            "guitar": ["2 4 4 3 2 0", "2 9 11 11 11 9"],
+            "ukulele": ["4 4 4 6"]
+        }
+    },
+    "Gbmaj6": {
+        "aliases": ["Gbmaj6", "Gb major 6", "Gb major six", "G flat major 6", "G flat major six"],
+        "fingerings": {
+            "guitar": ["2 4 4 3 2 0", "2 9 11 11 11 9"],
+            "ukulele": ["4 4 4 6"]
+        }
+    },
+    "Gmaj6": {
+        "aliases": ["Gmaj6", "G major 6", "G major six"],
+        "fingerings": {
+            "guitar": ["3 2 0 0 0 2", "3 5 5 4 3 5"],
+            "ukulele": ["0 2 1 3"]
+        }
+    },
+    "G#maj6": {
+        "aliases": ["G#maj6", "G# major 6", "G# major six", "G sharp major 6", "G sharp major six"],
+        "fingerings": {
+            "guitar": ["4 6 4 5 4 4", "4 11 13 13 13 11"],
+            "ukulele": ["5 5 5 8"]
+        }
+    },
+    "Abmaj6": {
+        "aliases": ["Abmaj6", "Ab major 6", "Ab major six", "A flat major 6", "A flat major six"],
+        "fingerings": {
+            "guitar": ["4 6 4 5 4 4", "4 11 13 13 13 11"],
+            "ukulele": ["5 5 5 8"]
+        }
+    },
+    "Amaj6": {
+        "aliases": ["Amaj6", "A major 6", "A major six"],
+        "fingerings": {
+            "guitar": ["x 0 2 2 2 0", "5 7 7 6 5 5"],
+            "ukulele": ["2 1 0 0"]
+        }
+    },
+    "A#maj6": {
+        "aliases": ["A#maj6", "A# major 6", "A# major six", "A sharp major 6", "A sharp major six"],
+        "fingerings": {
+            "guitar": ["x 1 3 2 3 1", "x 6 8 8 8 6"],
+            "ukulele": ["6 6 6 8"]
+        }
+    },
+    "Bbmaj6": {
+        "aliases": ["Bbmaj6", "Bb major 6", "Bb major six", "B flat major 6", "B flat major six"],
+        "fingerings": {
+            "guitar": ["x 1 3 2 3 1", "x 6 8 8 8 6"],
+            "ukulele": ["6 6 6 8"]
+        }
+    },
+    "Bmaj6": {
+        "aliases": ["Bmaj6", "B major 6", "B major six"],
+        "fingerings": {
+            "guitar": ["x 2 4 4 4 2", "7 9 9 8 7 9"],
+            "ukulele": ["4 2 2 0"]
+        }
+    },
+    "Cmaj7": {
+        "aliases": ["Cmaj7", "C major 7", "C major seven"],
+        "fingerings": {
+            "guitar": ["x 3 2 0 0 0", "x 3 5 4 5 x"],
+            "ukulele": ["0 0 0 2"]
+        }
+    },
+    "C#maj7": {
+        "aliases": ["C#maj7", "C# major 7", "C# major seven", "C sharp major 7", "C sharp major seven"],
+        "fingerings": {
+            "guitar": ["x 4 6 4 6 4", "x 4 6 5 6 x"],
+            "ukulele": ["1 1 1 2"]
+        }
+    },
+    "Dbmaj7": {
+        "aliases": ["Dbmaj7", "Db major 7", "Db major seven", "D flat major 7", "D flat major seven"],
+        "fingerings": {
+            "guitar": ["x 4 6 4 6 4", "x 4 6 5 6 x"],
+            "ukulele": ["1 1 1 2"]
+        }
+    },
+    "Dmaj7": {
+        "aliases": ["Dmaj7", "D major 7", "D major seven"],
+        "fingerings": {
+            "guitar": ["x x 0 2 2 2", "10 12 12 11 10 12"],
+            "ukulele": ["2 2 2 0"]
+        }
+    },
+    "D#maj7": {
+        "aliases": ["D#maj7", "D# major 7", "D# major seven", "D sharp major 7", "D sharp major seven"],
+        "fingerings": {
+            "guitar": ["x 5 7 5 7 5", "x 5 7 6 7 x"],
+            "ukulele": ["3 3 3 4"]
+        }
+    },
+    "Ebmaj7": {
+        "aliases": ["Ebmaj7", "Eb major 7", "Eb major seven", "E flat major 7", "E flat major seven"],
+        "fingerings": {
+            "guitar": ["x 5 7 5 7 5", "x 5 7 6 7 x"],
+            "ukulele": ["3 3 3 4"]
+        }
+    },
+    "Emaj7": {
+        "aliases": ["Emaj7", "E major 7", "E major seven"],
+        "fingerings": {
+            "guitar": ["0 2 2 1 0 0", "0 7 9 8 9 9"],
+            "ukulele": ["4 4 4 2"]
+        }
+    },
+    "Fmaj7": {
+        "aliases": ["Fmaj7", "F major 7", "F major seven"],
+        "fingerings": {
+            "guitar": ["1 3 3 2 1 0", "8 10 10 9 8 10"],
+            "ukulele": ["2 0 1 2"]
+        }
+    },
+    "F#maj7": {
+        "aliases": ["F#maj7", "F# major 7", "F# major seven", "F sharp major 7", "F sharp major seven"],
+        "fingerings": {
+            "guitar": ["2 4 4 3 2 0", "2 9 11 10 11 11"],
+            "ukulele": ["4 4 4 6"]
+        }
+    },
+    "Gbmaj7": {
+        "aliases": ["Gbmaj7", "Gb major 7", "Gb major seven", "G flat major 7", "G flat major seven"],
+        "fingerings": {
+            "guitar": ["2 4 4 3 2 0", "2 9 11 10 11 11"],
+            "ukulele": ["4 4 4 6"]
+        }
+    },
+    "Gmaj7": {
+        "aliases": ["Gmaj7", "G major 7", "G major seven"],
+        "fingerings": {
+            "guitar": ["3 2 0 0 0 2", "3 5 5 4 3 5"],
+            "ukulele": ["0 2 1 2"]
+        }
+    },
+    "G#maj7": {
+        "aliases": ["G#maj7", "G# major 7", "G# major seven", "G sharp major 7", "G sharp major seven"],
+        "fingerings": {
+            "guitar": ["4 6 4 5 4 4", "4 11 13 12 13 13"],
+            "ukulele": ["5 5 5 8"]
+        }
+    },
+    "Abmaj7": {
+        "aliases": ["Abmaj7", "Ab major 7", "Ab major seven", "A flat major 7", "A flat major seven"],
+        "fingerings": {
+            "guitar": ["4 6 4 5 4 4", "4 11 13 12 13 13"],
+            "ukulele": ["5 5 5 8"]
+        }
+    },
+    "Amaj7": {
+        "aliases": ["Amaj7", "A major 7", "A major seven"],
+        "fingerings": {
+            "guitar": ["x 0 2 2 2 0", "5 7 7 6 5 7"],
+            "ukulele": ["2 1 0 2"]
+        }
+    },
+    "A#maj7": {
+        "aliases": ["A#maj7", "A# major 7", "A# major seven", "A sharp major 7", "A sharp major seven"],
+        "fingerings": {
+            "guitar": ["x 1 3 2 3 1", "x 6 8 7 8 8"],
+            "ukulele": ["6 6 6 8"]
+        }
+    },
+    "Bbmaj7": {
+        "aliases": ["Bbmaj7", "Bb major 7", "Bb major seven", "B flat major 7", "B flat major seven"],
+        "fingerings": {
+            "guitar": ["x 1 3 2 3 1", "x 6 8 7 8 8"],
+            "ukulele": ["6 6 6 8"]
+        }
+    },
+    "Bmaj7": {
+        "aliases": ["Bmaj7", "B major 7", "B major seven"],
+        "fingerings": {
+            "guitar": ["x 2 4 4 4 2", "7 9 9 8 7 9"],
+            "ukulele": ["4 2 2 0"]
         }
     }
 }
